@@ -41,4 +41,4 @@ pip install -r requirements.txt
 - Franciszek Latała,
 - Razo van Berkel
 - Marianna Louizidou
-- Anish Deshpande,
+- Anish Deshpande
