@@ -1,0 +1,23 @@
+[project]
+name = "NLP-RAG-Project"
+version = "0.1.0"
+description = "Project from TU Delft, NLP Course"
+readme = "README.md"
+requires-python = ">=3.11"
+authors = [
+    {name = "Marianna Louizidou", email = "M.Louizidou@student.tudelft.nl"},
+    {name = "Franciszek Latała", email = "F.J.Latala@student.tudelft.nl"},
+    {name = "Razo van Berkel", email = "R.Q.Berkel@student.tudelft.nl"},
+    {name = "Anish Deshpande", email = "A.A.Deshpande-2@student.tudelft.nl"},
+]
+dependencies = [
+    "bert-score>=0.3.13",
+    "dexter-cqa>=1.0.9",
+    "ipykernel>=6.29.5",
+    "ipywidgets>=8.1.5",
+    "matplotlib>=3.10.0",
+    "numpy>=2.2.2",
+    "sentence-transformers>=2.2.2",
+    "torch>=2.5.1",
+    "transformers>=4.30.0",
+]
