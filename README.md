@@ -38,7 +38,7 @@ pip install -r requirements.txt
 ```
 
 ## Contributors
-- Franciszek Latała,
+- Franciszek Latała
 - Razo van Berkel
 - Marianna Louizidou
 - Anish Deshpande
